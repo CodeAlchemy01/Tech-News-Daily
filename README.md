@@ -38,6 +38,9 @@ To execute tests, run the following Gradle tasks:
 testDemoDebug: Runs all local tests against the demoDebug variant.
 connectedDemoDebugAndroidTest: Runs all instrumented tests against the demoDebug variant.
 
+![WhatsApp-Image-2024-11-01-at-12 36](https://github.com/user-attachments/assets/4fab747f-e5cf-43fd-b719-d58dee6809d4)
+
+
 # UI Design
 The app follows Material 3 design guidelines, with all screens and UI elements built using Jetpack Compose. It features:
 
