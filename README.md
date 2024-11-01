@@ -25,8 +25,6 @@
 **UI/UX Design:**  
 - Material 3  
 
-Feel free to let me know if you need further modifications!
-
 # Key Features
 - **News Feed**: Users can browse through the latest technology news articles and updates.
 - **Topic Follow**: Users can follow specific topics of interest and receive notifications when new content is published.
