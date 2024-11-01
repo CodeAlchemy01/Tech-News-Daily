@@ -2,24 +2,30 @@
 **TechNews Daily** is a fully functional Android app built entirely with Kotlin and Jetpack Compose. It aims to provide users with the latest technology news, articles, and updates, serving as a valuable resource for tech enthusiasts and developers. The app is designed with best practices in mind, ensuring a smooth user experience and up-to-date information.
 
 ## Tech Stacks
-```plaintext
-- Programming Languages: 
-  - Kotlin 
-  - Java 
-- Frameworks and Libraries: 
-  - Jetpack Compose 
-  - Spring Boot (for backend services)
-- Build Tools: 
-  - Gradle 
-- Dependency Injection: 
-  - Hilt 
-- Testing Frameworks: 
-  - JUnit 
-  - Espresso 
-  - Roborazzi (for screenshot testing)
-- UI/UX Design: 
-  - Material 3 
-```
+
+**Programming Languages:**  
+- Kotlin  
+- Java  
+
+**Frameworks and Libraries:**  
+- Jetpack Compose  
+- Spring Boot (for backend services)  
+
+**Build Tools:**  
+- Gradle  
+
+**Dependency Injection:**  
+- Hilt  
+
+**Testing Frameworks:**  
+- JUnit  
+- Espresso  
+- Roborazzi (for screenshot testing)  
+
+**UI/UX Design:**  
+- Material 3  
+
+Feel free to let me know if you need further modifications!
 
 # Key Features
 - **News Feed**: Users can browse through the latest technology news articles and updates.
